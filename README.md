@@ -1,24 +1,23 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Hello welcome to the codeme blog
+Aim of this project to help other coders by sharing our daily challanges during work
+it is still in starting level
+#happy coading people
+#contributors always welcome
+#Keep Suggest new chages to help and increase user perfomrance
+see ya later peopele
 
-Things you may want to cover:
 
-* Ruby version
 
-* System dependencies
 
-* Configuration
+:)  :)
 
-* Database creation
 
-* Database initialization
 
-* How to run the test suite
 
-* Services (job queues, cache servers, search engines, etc.)
 
-* Deployment instructions
 
-* ...
+
+
+A project by vartechx.inc
